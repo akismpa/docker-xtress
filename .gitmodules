@@ -1,0 +1,3 @@
+[submodule "docker-xtress"]
+	path = docker-xtress
+	url = https://github.com/akismpa/docker-xtress.git
